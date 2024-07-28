@@ -1,0 +1,55 @@
+Trabajo Práctico: Maquetación
+
+Elección de Tema
+A elección.
+Layout: a elección
+Ejemplos layout
+https://www.ecurtisdesigns.com/wp-content/uploads/2014/02/layouts.jpg
+
+1. Estructura Principal
+- Archivo principal: index.html - style.css
+- Crear archivos html y css.
+- Debe haber un css para cada section y entre secciones pueden compartir algunas reglas de estilo.
+- Conectar secciones a través de enlaces (#)
+- Carpetas: img, css, js (carpeta js opcional)
+- Estructura de cada archivo: Header, Main, Footer (header y footer solo obligatorio en home)
+- Incluir al menos una fuente de google fonts
+- Iconos (mínimo 2)
+- Navbar en el header
+
+2. Secciones (mínimo 4)
+
+Sección 1: Home o Principal
+- Incluir una o más imágenes que ocupen, como mínimo, el 80% de la pantalla de ancho y ⅓ de alto.
+- Títulos y textos
+
+Sección 2: Cards
+- Incluir al menos dos cards.
+- Las cards deben tener en su interior, mínimo una imagen, títulos, textos, opcional: botón.
+
+Sección 3: Galería
+- Mostrar varias imágenes pequeñas en forma de "Galería".
+- Incluir al menos 7 imágenes.
+- En esta vista no es obligatorio usar texto, pero sí un título.
+
+Sección 4: Contacto
+- Incluir un formulario de contacto.
+- El formulario debe contener al menos 6 campos tipo input: Nombre, Email, Teléfono, Comentario(text area), selector y radio o checkbox.
+- Deben incluir las labels para cada input.
+- Incluir botón de enviar, y de reset.
+
+Consideraciones para Todas las Secciones
+- Utilizar id’s y clases
+- Implementar títulos, textos descriptivos.
+- Utilizar estructura flex y/o grid para organizar los elementos.
+- Versión responsive: opcional. (360px, 768px, 1024px)
+- En caso de realizar versión responsive pueden utilizar varios mediaqueries según sea necesario para ajustar los elementos en cada breakpoint. El uso de breakpoints asegura que el diseño sea limpio y atractivo en las resoluciones de pantalla mencionadas.
+
+Fecha de Entrega
+Límite 31/07/2024 - 00hs.
+
+Formato de Entrega
+- Repositorio Git con el código fuente del proyecto.
+- Enlace de hosting a la página web. Github.
+
+Asegúrense de que la página web sea accesible y que el diseño sea atractivo y funcional. La elección del tema es libre, así que pueden dejar volar su creatividad en la maquetación. ¡Buena suerte!
